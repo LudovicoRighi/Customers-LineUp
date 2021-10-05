@@ -7,11 +7,6 @@ All the phases of the software development were followed, starting from the requ
   <img width="50%" src="https://github.com/LudovicoRighi/RighiGherardi/blob/main/ATD/Images/MockupLogo/LogoEnorme.png">
 </p>
 
-<p align="center">
-  <img width="50%" src="https://user-images.githubusercontent.com/52406034/135987099-0f5993f2-77b0-4b42-88bd-8ca1926f986a.png">
-</p>
-
-
 # Documents
 We wrote three different documents in order to keep track of all the important information and modifications that were needed during the software developement:
  - RASD (Requirement Analysis and Specification Document)
