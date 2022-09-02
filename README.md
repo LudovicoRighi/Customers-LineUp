@@ -4,7 +4,7 @@ Customers Line-Up is an easy-to-use application whose main goal was to avoid gat
 All the phases of the software development were followed, starting from the requirement analysis, going through the design phase, until the final actual implementation of the mobile application, documenting precisely every step.
 
 <p align="center">
-  <img width="50%" src="https://github.com/LudovicoRighi/RighiGherardi/blob/main/ATD/Images/MockupLogo/LogoEnorme.png">
+  <img width="50%" src="https://github.com/LudovicoRighi/Customers-LineUp/blob/main/ATD/Images/MockupLogo/LogoEnorme.png">
 </p>
 
 # Documents
