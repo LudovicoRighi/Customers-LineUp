@@ -23,15 +23,15 @@ The implementation phase was performed using:
 The testing phase of the Application Server was performed using Junit.
 
 <p align="left">
-  <img width="24%" hspace="4%" src="https://github.com/LudovicoRighi/RighiGherardi/blob/main/DD/Images/MockupLogo/mockLogin.PNG">
-  <img width="24%" hspace="4%" src="https://github.com/LudovicoRighi/RighiGherardi/blob/main/DD/Images/MockupLogo/mockRegistration.PNG">
-  <img width="24%" hspace="4%" src="https://github.com/LudovicoRighi/RighiGherardi/blob/main/DD/Images/MockupLogo/mockLineUpNew.PNG">
+  <img width="24%" hspace="4%" src="https://github.com/LudovicoRighi/Customers-LineUp/blob/main/Images/mockLogin.PNG">
+  <img width="24%" hspace="4%" src="https://github.com/LudovicoRighi/Customers-LineUp/blob/main/Images/mockRegistration.PNG">
+  <img width="24%" hspace="4%" src="https://github.com/LudovicoRighi/Customers-LineUp/blob/main/Images/mockLineUpNew.PNG">
 </p> 
 
 <p align="left">
-  <img width="24%" hspace="4%" src="https://github.com/LudovicoRighi/RighiGherardi/blob/main/DD/Images/MockupLogo/mockLineUpSent.PNG">
-  <img width="24%" hspace="4%" src="https://github.com/LudovicoRighi/RighiGherardi/blob/main/DD/Images/MockupLogo/mockBookNew.PNG">
-  <img width="24%" hspace="4%" src="https://github.com/LudovicoRighi/RighiGherardi/blob/main/DD/Images/MockupLogo/mockQRCode.PNG">
+  <img width="24%" hspace="4%" src="https://github.com/LudovicoRighi/Customers-LineUp/blob/main/Images/mockLineUpSent.PNG">
+  <img width="24%" hspace="4%" src="https://github.com/LudovicoRighi/Customers-LineUp/blob/main/Images/mockBookNew.PNG">
+  <img width="24%" hspace="4%" src="https://github.com/LudovicoRighi/Customers-LineUp/blob/main/Images/mockQRCode.PNG">
 </p>
 
 # External APIs
